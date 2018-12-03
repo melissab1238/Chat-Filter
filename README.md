@@ -48,3 +48,6 @@ Customize Positive and Negative Messages
 [Harassment Detection](http://wiki.knoesis.org/index.php/Context-Aware_Harassment_Detection_on_Social_Media)
 
 [Harassment-Corpus](https://github.com/Mrezvan94/Harassment-Corpus)
+#### Todo:
+* [https://www.siftninja.com/]
+* [https://github.com/melissab1238/BadWordBlocker]
